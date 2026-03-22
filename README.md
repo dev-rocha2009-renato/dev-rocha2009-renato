@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Renato Rocha
 
-<!--
-**dev-rocha2009-renato/dev-rocha2009-renato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento de Sistemas  
+💻 Focado em Back-end (PHP & SQL)  
+🚀 Em constante evolução construindo projetos práticos
 
-Here are some ideas to get you started:
+## 🧠 Tecnologias em aprendizado
+- PHP
+- SQL / MySQL
+- Java
+- C++
+- HTML & CSS
+- Git (aprendendo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Objetivo
+Desenvolver sistemas eficientes, aprender continuamente e iniciar minha carreira na área de tecnologia.
